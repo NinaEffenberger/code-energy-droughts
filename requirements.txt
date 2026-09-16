@@ -1,0 +1,7 @@
+cartopy==0.25.0
+dask==2026.3.0
+matplotlib==3.10.8
+numpy==2.4.4
+pandas==3.0.1
+torch==2.11.0
+xarray==2025.7.1
